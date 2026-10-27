@@ -1,0 +1,38 @@
+[Event "Rated blitz"]
+[Site "lichess.org/test1"]
+[Date "2026.10.20"]
+[White "Dylan Asdale"]
+[Black "Rival One"]
+[Result "1-0"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 {forgot the a6 plan} e5 6. Ndb5 d5 7. exd5 Bc5 1-0
+
+[Event "Rated blitz"]
+[Site "lichess.org/test2"]
+[Date "2026.10.21"]
+[White "Dylan Asdale"]
+[Black "Rival Two"]
+[Result "0-1"]
+[ECO "B30"]
+
+1. e4 c5 (1. d4 d5) 2. Nf3 $2 Nc6 1-0
+
+[Event "Rated blitz"]
+[Site "lichess.org/test3"]
+[Date "2026.10.22"]
+[White "Rival Three"]
+[Black "Dylan Asdale"]
+[Result "1/2-1/2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {solid choice} Nf6 1/2-1/2
+
+[Event "Rated blitz"]
+[Site "lichess.org/test4"]
+[Date "2026.10.23"]
+[White "Dylan Asdale"]
+[Black "Rival Four"]
+[Result "1-0"]
+[Opening "Scandinavian Defense"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 1-0
